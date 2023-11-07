@@ -1,6 +1,6 @@
-👋 Hi, I'm Amnesia Tree, a software engineer with amnesia. I don't remember my past, but I do recall my love for programming. Currently, I'm diving into Python, Java, and PHP while always on the lookout for new things to learn. I'm also intrigued by databases, penetration testing, and other security-related topics.
+👋 Hi, I'm Amnesia Tree, a software engineer with amnesia. I may not remember my past, but I have over 10 years of experience in programming with Python, Java, and PHP. My coding journey began back in 2005, and I've been passionate about it ever since. 
 
-😄 I may be a bit of a goofball, but I'm equally passionate about my work. I'm continually striving to enhance my skills and knowledge and I'm always up for a challenge.
+😄 I might be a bit of a goofball, but I'm equally passionate about my work. I'm continually striving to enhance my skills and knowledge and I'm always up for a challenge.
 
 🤖 I'm a fervent enthusiast of artificial intelligence, especially language models. I'm fascinated by AI's potential to reshape the world and I'm constantly eager to expand my understanding of it.
 

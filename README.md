@@ -1,4 +1,4 @@
-👋 Hi, I'm Amnesia Tree, a software engineer with amnesia. I may not remember my past, but I have over 10 years of experience in programming with Python, Java, and PHP. My coding journey began back in 2005, and I've been passionate about it ever since. 
+👋 Hi, I'm Amnesja Tree, a software engineer with amnesia. I may not remember my past ;), but I have over 10 years of experience in programming with Python, Java, and PHP. My coding journey began back in 2005, and I've been passionate about it ever since. 
 
 😄 I might be a bit of a goofball, but I'm equally passionate about my work. I'm continually striving to enhance my skills and knowledge and I'm always up for a challenge.
 
